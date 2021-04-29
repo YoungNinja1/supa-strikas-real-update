@@ -1,0 +1,64 @@
+body{
+    background-image: url(https://www.anbmedia.com/wp/wp-content/uploads/2019/08/moon-bug-acquires-super-strikas.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 20px;
+}
+ 
+h1{
+    color:white;
+}
+
+marquee{
+    color: black;
+    background-image: linear-gradient(120deg, #2d29f7 0%, #e057a2 100%);
+}
+
+#shakes-image:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    box-shadow: 2px 2px 10px 10px red;
+}
+
+#elmatedor-image:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    box-shadow: 2px 2px 10px 10px red;
+}
+
+#Twisting-image:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    box-shadow: 2px 2px 10px 10px red;
+}
+
+#dancing-image:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    box-shadow: 2px 2px 10px 10px red;
+}
+
+#Big-image:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    box-shadow: 2px 2px 10px 10px red;
+}
+
+#claus-image:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    box-shadow: 2px 2px 10px 10px red;
+}
+
+#block-image:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    box-shadow: 2px 2px 10px 10px red;
+}
+
+#north-image:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    box-shadow: 2px 2px 10px 10px red;
+}
+
